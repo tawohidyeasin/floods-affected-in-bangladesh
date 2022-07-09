@@ -1,0 +1,79 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    background-image: url(images/flood4.jfif);
+    background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+}
+.heading{
+    color: crimson;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+}
+.those{
+    font-size: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: cyan;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+    font-weight: 700px;
+    margin-top: 100px;
+}
+p{
+    text-align: center;
+}
+#money{
+    float: left;
+    text-align: center;
+    display: flex;
+    
+}
+.jugantor{
+    background-color: aqua;
+    float: left;
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+}
+#tawhid{
+    border: 5px solid gray;
+}
+span{
+    text-align: center;
+}
+.text-center{text-align: center;
+
+}
+#food{
+    display: flex;
+    margin-bottom: 150px;
+    text-align: center;
+    
+}
+.family{
+    background-color: beige;
+    margin-left: 10px;
+}
+.shelter{
+    background-color: bisque;
+    margin-left: 10px;
+}
+.education{background-color: cornflowerblue;
+    margin-left: 10px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
